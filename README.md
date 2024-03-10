@@ -58,8 +58,7 @@ This serves as the concluding assignment for the 'Learn Data Analysis with Pytho
 
 ## 4. Screenshots
 
-![alt text](https://github.com/niiputuekaadwiyantii/dashboard/blob/a155e3198fa5a33d1d0fc85a99143325f697a286/WhatsApp%20%E5%9C%96%E7%89%87%E5%84%B2%E5%AD%98%E6%99%82%E9%96%932024-03-10%EF%BC%8C14.57.32_cdede9a5.jpg)
-
-![alt text](https://github.com/niiputuekaadwiyantii/dashboard/blob/main/WhatsApp%20%E5%9C%96%E7%89%87%E5%84%B2%E5%AD%98%E6%99%82%E9%96%932024-03-10%EF%BC%8C14.57.38_b3457f1f.jpg)
-
-![alt text](https://github.com/niiputuekaadwiyantii/dashboard/blob/main/WhatsApp%20%E5%9C%96%E7%89%87%E5%84%B2%E5%AD%98%E6%99%82%E9%96%932024-03-10%EF%BC%8C14.57.49_0f81adcb.jpg)
+![WhatsApp 圖片儲存時間2024-03-10，15 59 48_8df560c6](https://github.com/niiputuekaadwiyantii/FileAnalisis/assets/162816040/646574d6-a52c-44bf-a166-a141134f84ed)
+![WhatsApp 圖片儲存時間2024-03-10，15 59 48_1b58ae75](https://github.com/niiputuekaadwiyantii/FileAnalisis/assets/162816040/3ec1422c-ccf0-4a88-83a0-5486f50df3d1)
+![WhatsApp 圖片儲存時間2024-03-10，15 59 48_896763f9](https://github.com/niiputuekaadwiyantii/FileAnalisis/assets/162816040/bc1c1af0-1065-4adf-9d1a-aaf33c50f9be)
+![WhatsApp 圖片儲存時間2024-03-10，15 59 48_10ba0345](https://github.com/niiputuekaadwiyantii/FileAnalisis/assets/162816040/6b0ccb8e-fa45-4946-8be8-f27f4d7477f3)
